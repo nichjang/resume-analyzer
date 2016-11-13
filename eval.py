@@ -6,7 +6,7 @@ import os
 import time
 import datetime
 import data_helpers
-from text_cnn import TextCNN
+from neuralnet import NeuralNet
 from tensorflow.contrib import learn
 import csv
 
