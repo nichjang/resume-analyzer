@@ -27,6 +27,7 @@ The embedding layer maps the POS of the sentence to a dictionary of all the POS 
 Data acquisition was difficult: 
 * There were very few collections of resumes on the web (We used Indeed and Monster) 
 * Classifying a sentence/resume as strong or weak had to be performed manually. 
+
 Ultimately, we ended up with around 250 total data points for training and testing. 
 
 ##Step 4: Results
