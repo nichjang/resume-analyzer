@@ -1,4 +1,4 @@
-<b>Resume Analyzer:</b>
+<b><font size="3" color="red">Resume Analyzer:</font></b>
 
 <p>The goal of this project was to use a CNN developed for text classification (sentimental analysis) and adjust it to classify sentences as strong or weak (in a resume).</p>
 
