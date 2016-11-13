@@ -3,12 +3,12 @@
 <p>The goal of this project was to use a CNN developed for text classification (sentimental analysis) and adjust it to classify sentences as strong or weak (in a resume).</p>
 
 Some traits of "strong" sentences:
-  *Sentences usually began with an action verb
-  *Sentences avoided using personal pronouns
-  *Sentences were generally longer than weak sentences
-  *Sentences usually were very descriptive, and thus had many nouns
-  *Sentences sometimes included some quantitative amount
-  *Sentences used active voice
+  * Sentences usually began with an action verb
+  * Sentences avoided using personal pronouns
+  * Sentences were generally longer than weak sentences
+  * Sentences usually were very descriptive, and thus had many nouns
+  * Sentences sometimes included some quantitative amount
+  * Sentences used active voice
   
 Some traits of "weak" sentences
   -Sentences used personal pronouns
