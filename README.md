@@ -33,5 +33,5 @@ Ultimately, we ended up with around 250 total data points for training and testi
 ##Step 4: Results
 Ultimately, we were satisifed with the results given the small dataset. The accuracy of training was approximately 84% with a loss of 0.50 after around 1000 training cycles. We tweaked around by adjusting embedding layer dimensionality, filter size, number of filters, and batch size to optimize the results. 
 
-##Step 5:Improvements
+##Step 5: Improvements
 Many improvements can be made to improve accuracy of this project. Increasing the training dataset would be most beneficial. A dataset of 1,000 or 10,000 sentences would dramatically improve accuracy. Also, this project does not distinguish the difference between "strong words (ex: "initiated", "analyzed", "implemented") and "weak" words (ex: "did","made","helped"). It also does not account for resume formatting or quality of work. 
